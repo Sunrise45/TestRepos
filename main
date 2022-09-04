@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>test1</title>
+    <style>
+        #id{color:rgb(20,200,1);}
+    </style>
+</head>
+<body>
+    <h1>this is a header</h1>
+    <p>lorem ipsum test text</p>
+    <p id="testid"> test text for css</p>
+
+</body>
+</html>

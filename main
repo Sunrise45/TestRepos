@@ -12,6 +12,7 @@
     <h1>this is a header</h1>
     <p>lorem ipsum test text</p>
     <p id="testid"> test text for css</p>
+    <p> not in IDE, this line was typed in github </p>
 
 </body>
 </html>
